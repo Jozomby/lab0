@@ -1,0 +1,12 @@
+.banner {
+	background-image: url("banner.jpg");
+	background-size: 100%;
+	height: 500px;
+}
+.navbar {
+	margin-bottom: 0px;
+}
+
+.resize {
+	height: 200px;
+}
