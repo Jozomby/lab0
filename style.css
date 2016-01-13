@@ -35,3 +35,51 @@ body {
 html {
 	height: 100%;
 }
+
+.forecast td {
+	padding-left: 10px;
+}
+
+.news-img {
+	max-height: 200px;
+}
+
+@media only screen and (max-width: 1286px) {
+	.banner {
+		height: 250px;
+	}
+}
+
+@media only screen and (max-device-width: 480px) {
+	p, h1, h2, h3, h4 {
+		color: #444444;
+	}
+	
+	p, li{
+		font-size: 180%;
+	}
+	
+	h4 {
+		font-size: 190%;
+	}
+	
+	h3 {
+		font-size: 200%;
+	}
+	
+	h2 {
+		font-size: 225%;
+	}
+	
+	h1 {
+		font-size: 250%;
+	}
+	
+	a {
+		font-size: 180%;
+	}
+	
+	.navbar-header a {
+		font-size: 200%;
+	}
+}
