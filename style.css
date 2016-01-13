@@ -10,3 +10,28 @@
 .resize {
 	height: 200px;
 }
+
+.current {
+	color: #333333;
+}
+
+.forecast img {
+	max-height: 150px;
+}
+
+.container {
+	background-color: #EEEEEE;
+	height: 100%;
+}
+
+.forecast {
+	background-color: #FFFFFF;
+}
+
+body {
+	height: 100%;
+}
+
+html {
+	height: 100%;
+}
